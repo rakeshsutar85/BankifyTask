@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#4A4F51</color>
+
+    <color name="TicketColor1">#EB0303</color>
+    <color name="TicketColor2">#F57F17</color>
+    <color name="TicketColor3">#01579B</color>
+    <color name="TicketColor4">#1B5E20</color>
+    <color name="TicketColor5">#880E4F</color>
+    <color name="TicketColor6">#004D40</color>
+
+
+</resources>

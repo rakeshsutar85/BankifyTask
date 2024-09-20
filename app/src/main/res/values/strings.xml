@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bankify Task</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="Priority">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+
+    </string-array>
+</resources>
